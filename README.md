@@ -48,10 +48,10 @@ npm start
 ```
 
 **backend**
-주소창에 localhost : 4000/company 으로 들어가면 된다.
+주소창에 http://localhost:4000/company 으로 들어가면 된다.
 
 **frontend**
-주소창에 localhost : 3000/company 으로 들어가면 된다.
+주소창에 http://localhost:3000/ 으로 들어가면 된다.
 
 각 backend, frontend 폴더에서 cmd 해주기
 
